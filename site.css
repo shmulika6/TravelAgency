@@ -1,0 +1,11 @@
+fieldset {margin:auto;display:inline;position: absolute;
+        top: 10%;  
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, 0) }
+table {margin:auto;}
+legend,caption{background-color: gray;font-size: large; text-align: center}
+.mnuitm{background-color: blue;color:white}
+th{background-color: gray}
+.adom {color: red;text-align: center}
+caption{background-color: grey; color: black }
